@@ -1,6 +1,6 @@
 # Witaj! 👋
 
-Jestem [Twoje Imię]! Jestem pasjonatem programowania, technologii i otwartego oprogramowania. 
+Jestem Dominik! Jestem pasjonatem programowania, technologii i otwartego oprogramowania. 
 
 ![Banner](https://images.unsplash.com/photo-1557683316-973673baf926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEwfHxtb2Rlcm58ZW58MHx8fHwxNjEzNzI3ODAy&ixlib=rb-1.2.1&q=80&w=1080)
 
@@ -11,11 +11,11 @@ Jestem [Twoje Imię]! Jestem pasjonatem programowania, technologii i otwartego o
 - **Bazy danych:** MySQL, 
 
 ## 🌱 Aktualnie uczę się
-- **GoLang**
-- **Machine Learning**
+- **Vue.js React.js**
+- **PHP, MySQL, JQuery**
 
 ## 📈 Statystyki GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwojeUżytkownikGitHub&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinosu4&show_icons=true&theme=radical)
 
 ## 📫 Skontaktuj się ze mną
 - Email: dominiktmpl1@gmail.com
@@ -32,5 +32,5 @@ Jestem [Twoje Imię]! Jestem pasjonatem programowania, technologii i otwartego o
 
 *Jeśli podoba Ci się mój profil, nie zapomnij dać ⭐ moim repozytoriom!*
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=TwojeUżytkownikGitHub.TwojeUżytkownikGitHub)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=reinosu.TwojeUżytkownikGitHub)
 
