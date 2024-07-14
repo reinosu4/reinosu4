@@ -19,7 +19,7 @@ Jestem Dominik! Jestem pasjonatem programowania, technologii i otwartego oprogra
 
 ## 📫 Skontaktuj się ze mną
 - Email: dominiktmpl1@gmail.com
-- Twitter: [Twój Twitter](https://x.com/uwu_rein)
+- Twitter: [@uwu_rein](https://x.com/uwu_rein)
 
 ## 🧩 Wyróżnione projekty
 -
