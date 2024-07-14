@@ -32,5 +32,5 @@ Jestem Dominik! Jestem pasjonatem programowania, technologii i otwartego oprogra
 
 *Jeśli podoba Ci się mój profil, nie zapomnij dać ⭐ moim repozytoriom!*
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=reinosu.TwojeUżytkownikGitHub)
+
 
