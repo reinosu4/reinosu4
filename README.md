@@ -11,7 +11,7 @@ Jestem Dominik! Jestem pasjonatem programowania, technologii i otwartego oprogra
 - **Bazy danych:** MySQL, 
 
 ## 🌱 Aktualnie uczę się
-- **Vue.js React.js**
+- **Vue.js React.js Node.js**
 - **PHP, MySQL, JQuery**
 
 ## 📈 Statystyki GitHub
