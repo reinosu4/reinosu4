@@ -12,7 +12,7 @@ Jestem Dominik! Jestem pasjonatem programowania, technologii i otwartego oprogra
 
 ## 🌱 Aktualnie uczę się
 - **Vue.js React.js Node.js**
-- **PHP, MySQL, JQuery**
+- **PHP, MySQL, JQuery, JavaScript**
 
 ## 📈 Statystyki GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinosu4&show_icons=true&theme=radical)
