@@ -6,7 +6,7 @@ Jestem Dominik! Jestem pasjonatem programowania, technologii i otwartego oprogra
 
 ## 🛠 Technologie i narzędzia
 - **Języki programowania:** HTML, CSS, JS ,PHP
-- **Frameworki:** Vue.js, React.js Bootstrap
+- **Frameworki:** Vue.js, React.js, Bootstrap, Tailwind 
 - **Narzędzia:** Git, Docker, Kubernetes
 - **Bazy danych:** MySQL, 
 
